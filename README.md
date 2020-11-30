@@ -1,4 +1,4 @@
-# R-Tips
+# R References
 
 These are some helpful references on R.
 
